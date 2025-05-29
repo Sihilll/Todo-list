@@ -90,7 +90,7 @@ export default function App() {
         <center className="mt-5 mb-5">
           <span className={`${darkTheme ? "text-light" : ""} header`}>
             <img src="/icon.png" alt="logo" style={{ width: 200 }} />
-            <span>TODO APP</span>
+            <span>TODO APPssssssssss</span>
           </span>
         </center>
         <span>
