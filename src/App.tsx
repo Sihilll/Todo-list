@@ -81,7 +81,7 @@ export default function App() {
   }
 
 
-  retur(
+  return(
     <div
       className={`h-full container-fluid justify-content-center align-items-center ${darkTheme ? "bg" : ""
         }`}
